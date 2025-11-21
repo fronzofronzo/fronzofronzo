@@ -1,4 +1,4 @@
-# Hello! I'm [Your Name] 👋
+# Hello! I'm Gabriele Fronzoni 👋
 
 I am a student in Computer Science at University of Trento with a passion for Artificial Intelligence (AI). I hold a Bachelor's degree in Computer Science from the University of Bologna. 
 
